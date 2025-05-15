@@ -1,1 +1,3 @@
 # signate_apple
+
+これはsignateで開催されているSOTAchallengeのアップル価格予想コンペになります。
